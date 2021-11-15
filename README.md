@@ -44,7 +44,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzahidul190&theme=dracula)
 <br> &nbsp;
-[![Muzahidul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=dracula)](https://git.io/praveenscience)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=dracula&hide_border=true&area=true)
 &nbsp;
 <a align="center" href="https://github.com/muzahidul190/Bootstrap_5_skeleton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muzahidul190&repo=Bootstrap_5_skeleton&theme=dracula" />
