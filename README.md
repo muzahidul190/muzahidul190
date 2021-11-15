@@ -24,12 +24,16 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'> </a>
+<a href= # > <img width ='32px' src ='https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png'> </a>
+<a href="#"> <img alt="SQL" title="SQL" height="32px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" /></a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png'> </a>
+<a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= # ><img width ='32px' src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" /> </a>
 
 
 <br>
@@ -38,6 +42,8 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 &nbsp;
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzahidul190&theme=dracula)
+<br> &nbsp;
 [![Muzahidul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=gruvbox)](https://git.io/praveenscience)
 &nbsp;
 <a align="center" href="https://github.com/muzahidul190/Bootstrap_5_skeleton">
@@ -57,6 +63,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href = 'https://www.linkedin.com/in/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href="https://facebook.com/muzahidul190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muzahidul190" height="30" width="40" /></a>
 <a href = 'https://muzahidul190.com/'> <img width = '32px' style='background:white;padding:3px;border-radius:5px;' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
