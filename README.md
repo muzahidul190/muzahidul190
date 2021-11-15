@@ -9,7 +9,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 - 🔭 I’m currently working on : Mini Projects beside studying.
 - 🌱 I’m currently learning : BackEnd web, API and android app.
 - 👯 I’m looking to collaborate on : Web related front end.
-- 🤔 I’m looking for help with : Competetive Programming.
+- 🤔 I’m looking for help with : Competitive Programming.
 - 💬 Ask me about : Programming (c++), php-mysql, ajax.
 - 📫 How to reach me: [Website](https://muzahidul190.com), [Facebook](https://facebook.com/Muzahidul190), [Twitter](https://twitter.com/muzahidul190), [Youtube](https://youtube.com/Muzahidul190)
 - ⚡ Fun fact: I'm an introvert :)
@@ -24,13 +24,20 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 
 
+<br>
+<p>&nbsp;</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true" alt="github stats">
 
-<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&hide_title=false&layout=compact&theme=gruvbox" />
+[![Muzahidul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=gruvbox)](https://git.io/praveenscience)
+
+| ![Muzahidul's github stats](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true) | ![Muzahidul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzahidul190&theme=gruvbox) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&theme=gruvbox) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=gruvbox) |
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -38,4 +45,3 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <a href = 'https://muzahidul190.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
-<br>
