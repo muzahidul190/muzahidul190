@@ -3,6 +3,9 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=muzahidul190)
 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on : Mini Projects beside studying.
 - 🌱 I’m currently learning : BackEnd web, API and android app.
 - 👯 I’m looking to collaborate on : Web related front end.
