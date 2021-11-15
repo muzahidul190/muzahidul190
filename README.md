@@ -7,3 +7,5 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 - 🤔 I’m looking for help with : Competetive Programming.
 - 💬 Ask me about : Programming (c++), php-mysql, ajax.
 - 📫 How to reach me: [Website](https://muzahidul190.com), [Facebook](https://facebook.com/Muzahidul190), [Twitter](https://twitter.com/muzahidul190), [Youtube](https://youtube.com/Muzahidul190)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
