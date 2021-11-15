@@ -7,7 +7,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=muzahidul190) &nbsp;
-![Twitter Follow](https://img.shields.io/twitter/follow/muzahidul190?label=Follow)  &nbsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/muzahidul190?label=Follow)](https://twitter.com/muzahidul190/)  &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/muzahidul190?label=Follow&style=social)
 
 
