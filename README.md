@@ -33,7 +33,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= # ><img width ='32px' src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" /> </a>
+<a href= # ><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /> </a>
 
 
 <br>
@@ -57,6 +57,10 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div style="flex: 33.33%; padding: 5px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muzahidul190&count_private=true&theme=dracula" alt="mostlypanda" />
+</div>
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -64,6 +68,6 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <a href = 'https://www.linkedin.com/in/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href="https://facebook.com/muzahidul190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muzahidul190" height="30" width="40" /></a>
-<a href = 'https://muzahidul190.com/'> <img width = '32px' style='background:white;padding:3px;border-radius:5px;' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://muzahidul190.com/'> <img width = '32px' align= 'center' src="https://img.icons8.com/fluent/96/000000/domain.png"/> </a>  
 <a href = 'https://www.github.com/muzahidul190'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
