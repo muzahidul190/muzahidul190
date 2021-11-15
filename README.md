@@ -1,4 +1,4 @@
-### <h2>Hi there 👋</h2>
+### <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -34,10 +34,16 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 <br>
 <p>&nbsp;</p>
-
+<h2> Git Activeness &nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> </h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+&nbsp;
 
 [![Muzahidul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=gruvbox)](https://git.io/praveenscience)
-
+&nbsp;
+<a href="https://github.com/muzahidul190/Bootstrap_5_skeleton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muzahidul190&repo=Bootstrap_5_skeleton&theme=gruvbox" />
+</a>
+&nbsp;
 | ![Muzahidul's github stats](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true) | ![Muzahidul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzahidul190&theme=gruvbox) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&theme=gruvbox) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=gruvbox) |
