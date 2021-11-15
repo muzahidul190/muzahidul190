@@ -44,18 +44,18 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzahidul190&theme=dracula)
 <br> &nbsp;
-[![Muzahidul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=gruvbox)](https://git.io/praveenscience)
+[![Muzahidul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=dracula)](https://git.io/praveenscience)
 &nbsp;
 <a align="center" href="https://github.com/muzahidul190/Bootstrap_5_skeleton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muzahidul190&repo=Bootstrap_5_skeleton&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muzahidul190&repo=Bootstrap_5_skeleton&theme=dracula" />
 </a>
 &nbsp;
-| ![Muzahidul's github stats](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true) | ![Muzahidul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzahidul190&theme=gruvbox) |
+| ![Muzahidul's github stats](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=dracula&count_private=true) | ![Muzahidul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzahidul190&theme=dracula) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&theme=gruvbox) | ![Commits Per Day Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muzahidul190&theme=dracula) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&theme=dracula) | ![Commits Per Day Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muzahidul190&theme=dracula) |
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
