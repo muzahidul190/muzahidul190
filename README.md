@@ -8,4 +8,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 - 💬 Ask me about : Programming (c++), php-mysql, ajax.
 - 📫 How to reach me: [Website](https://muzahidul190.com), [Facebook](https://facebook.com/Muzahidul190), [Twitter](https://twitter.com/muzahidul190), [Youtube](https://youtube.com/Muzahidul190)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true" alt="github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&layout=compact&theme=gruvbox" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
