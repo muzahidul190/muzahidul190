@@ -52,7 +52,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 &nbsp;
 | ![Muzahidul's github stats](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true) | ![Muzahidul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzahidul190&theme=gruvbox) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&theme=gruvbox) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=muzahidul190&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=gruvbox) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&theme=gruvbox) | ![Commits Per Day Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muzahidul190&theme=dracula) |
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
