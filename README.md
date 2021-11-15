@@ -18,4 +18,4 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&layout=compact&theme=gruvbox" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
