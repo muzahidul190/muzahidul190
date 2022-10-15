@@ -59,6 +59,8 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 <div style="flex: 33.33%; padding: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muzahidul190&count_private=true&theme=dracula" alt="mostlypanda" />
+    <img src="https://github.com/muzahidul190/muzahidul190/blob/main/images/stat.svg" alt="Muzahidul190 Wakatime"
+/>
 </div>
 
 
