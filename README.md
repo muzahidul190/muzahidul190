@@ -58,9 +58,8 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 [![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div style="flex: 33.33%; padding: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muzahidul190/b98a5409-4f6d-4a05-84d9-68669fe5de87&count_private=true&theme=dracula" alt="mostlypanda" />
-    <img src="https://github.com/muzahidul190/muzahidul190/blob/main/images/stat.svg" alt="Muzahidul190 Wakatime"
-/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muzahidul190/b98a5409-4f6d-4a05-84d9-68669fe5de87" alt="mostlypanda" />
+    <img align="center" src="https://wakatime.com/badge/user/97ee7560-886f-4337-b021-34ce1ef3e8ba.svg" />
 </div>
 
 
