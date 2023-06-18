@@ -13,11 +13,11 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on : Mini Projects beside studying.
-- 🌱 I’m currently learning : BackEnd web, API and android app.
-- 👯 I’m looking to collaborate on : Web related front end.
-- 🤔 I’m looking for help with : Competitive Programming.
-- 💬 Ask me about : Programming (c++), php-mysql, ajax.
+- 🔭 I’m currently working as Flutter Developer in AppStick.
+- 🌱 I’m currently learning: BackEnd, API, and Android apps.
+- 👯 I’m looking to collaborate on: Web related front end.
+- 🤔 I’m looking for help with: Competitive Programming.
+- 💬 Ask me about: Programming (c++), flutter, dart, php-mysql, and ajax.
 - 📫 How to reach me: [Website](https://muzahidul190.com), [Facebook](https://facebook.com/Muzahidul190), [Twitter](https://twitter.com/muzahidul190), [Youtube](https://youtube.com/Muzahidul190)
 - ⚡ Fun fact: I'm an introvert :)
 <br><p>&nbsp;</p><br>
