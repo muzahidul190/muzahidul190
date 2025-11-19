@@ -25,8 +25,8 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Primary Expertise - Flutter Development
-<a href="#"><img width="42px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="Flutter"></a>
-<a href="#"><img width="42px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"></a>
+<a href="#"><img width="32px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="Flutter"></a>
+<a href="#"><img width="32px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"></a>
 
 ### 📱 Mobile Development
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" alt="Android"></a>
@@ -37,19 +37,19 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <a href="#"><img width="32px" src="https://riverpod.dev/img/logo.png" alt="Riverpod"></a>
 
 ### 🔧 Backend & Databases
-<a href="#"><img width="32px" src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" alt="PHP"></a>
-<a href="#"><img width="32px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL"></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></a>
 
 ### 🌐 Web Technologies
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"></a>
-<a href="#"><img width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></a>
 
 ### 🛠️ Tools & Others
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git"></a>
-<a href="#"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg" alt="VS Code"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"></a>
 
 
