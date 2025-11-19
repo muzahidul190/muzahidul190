@@ -49,7 +49,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 ### 🛠️ Tools & Others
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg" alt="VS Code"></a>
+<a href="#"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"></a>
 
 
