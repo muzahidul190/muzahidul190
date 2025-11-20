@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
+Here, is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=muzahidul190) &nbsp;
@@ -14,8 +14,8 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working as Flutter Developer in [TEXION](https://texion.tech/).
-- 🌱 I’m currently learning: BackEnd, API, and Android apps.
-- 👯 I’m looking to collaborate on: Web related front end.
+- 🌱 I’m currently learning: BackEnd and API.
+- 👯 I’m looking to collaborate on: Flutter Applications with GetX and Riverpod for both Android and iOS.
 - 🤔 I’m looking for help with: Competitive Programming.
 - 💬 Ask me about: Programming (c++), flutter, dart, php-mysql, and ajax.
 - 📫 How to reach me: [Website](https://muzahidul190.com), [Facebook](https://facebook.com/Muzahidul190), [Twitter](https://twitter.com/muzahidul190), [Youtube](https://youtube.com/Muzahidul190)
@@ -25,15 +25,15 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Primary Expertise - Flutter Development
-<a href="#"><img width="32px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="Flutter"></a>
-<a href="#"><img width="32px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"></a>
+<a href="#"><img width="32px" src="https://img.icons8.com/color/32/flutter.png" alt="Flutter"></a>
+<a href="#"><img width="32px" src="https://img.icons8.com/color/32/dart.png" alt="Dart"></a>
 
 ### 📱 Mobile Development
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" alt="Android"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/apple.svg" alt="iOS"></a>
+<a href="#"><img width="32px" src="https://img.icons8.com/color/32/android-os.png" alt="Android"></a>
+<a href="#"><img width="32px" src="https://img.icons8.com/color/32/ios-logo.png" alt="iOS"></a>
 
 ### 🎯 Flutter State Management
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/jonataslaw/getx-community/master/.github/get.png" alt="GetX"></a>
+<a href="#"><img width="32px" src="https://img.icons8.com/color/64/get-x.png" alt="GetX"></a>
 <a href="#"><img width="32px" src="https://riverpod.dev/img/logo.png" alt="Riverpod"></a>
 
 ### 🔧 Backend & Databases
@@ -49,7 +49,7 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 ### 🛠️ Tools & Others
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git"></a>
-<a href="#"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"></a>
+<a href="#"><img width="32px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"></a>
 
 
@@ -72,10 +72,9 @@ Here is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidul190&theme=dracula) | ![Commits Per Day Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muzahidul190&theme=dracula) |
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=muzahidul190&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <div style="flex: 33.33%; padding: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muzahidul190/b98a5409-4f6d-4a05-84d9-68669fe5de87" alt="mostlypanda" />
     <img align="center" src="https://wakatime.com/badge/user/97ee7560-886f-4337-b021-34ce1ef3e8ba.svg" />
 </div>
 
