@@ -25,32 +25,35 @@ Here, is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Primary Expertise - Flutter Development
-<a href="#"><img width="32px" src="https://img.icons8.com/color/32/flutter.png" alt="Flutter"></a>
-<a href="#"><img width="32px" src="https://img.icons8.com/color/32/dart.png" alt="Dart"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/32/flutter.png" alt="Flutter"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/32/dart.png" alt="Dart"></a>
 
 ### 📱 Mobile Development
-<a href="#"><img width="32px" src="https://img.icons8.com/color/32/android-os.png" alt="Android"></a>
-<a href="#"><img width="32px" src="https://img.icons8.com/color/32/ios-logo.png" alt="iOS"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/32/android-os.png" alt="Android"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/32/ios-logo.png" alt="iOS"></a>
 
 ### 🎯 Flutter State Management
-<a href="#"><img width="32px" src="https://img.icons8.com/color/64/get-x.png" alt="GetX"></a>
-<a href="#"><img width="32px" src="https://riverpod.dev/img/logo.png" alt="Riverpod"></a>
+<a href="#"><img height="32px" src="https://raw.githubusercontent.com/muzahidul190/muzahidul190/refs/heads/main/images/getx.png" alt="GetX"></a>
+<a href="#"><img height="32px" src="https://riverpod.dev/img/logo.png" alt="Riverpod"></a>
 
 ### 🔧 Backend & Databases
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JS"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/48/express-js.png" alt="express"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/64/php--v2.png" alt="PHP"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="MySQL"></a>
 
 ### 🌐 Web Technologies
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></a>
+<a href="#"><img height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"></a>
+<a href="#"><img height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"></a>
+<a href="#"><img height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"></a>
+<a href="#"><img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></a>
 
 ### 🛠️ Tools & Others
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git"></a>
-<a href="#"><img width="32px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"></a>
+<a href="#"><img height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git"></a>
+<a href="#"><img height="32px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"></a>
+<a href="#"><img height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"></a>
 
 
 <br>
@@ -61,7 +64,7 @@ Here, is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzahidul190&theme=dracula)
 <br> &nbsp;
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=dracula&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=muzahidul190&theme=dracula&hide_border=true&area=true) -->
 &nbsp;
 <a align="center" href="https://github.com/muzahidul190/Bootstrap_5_skeleton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muzahidul190&repo=Bootstrap_5_skeleton&theme=dracula" />
