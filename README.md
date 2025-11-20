@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here, is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
+Here, is Muzahidul Islam, you've suddenly reached the profile of whom!!!
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=muzahidul190) &nbsp;
@@ -17,7 +17,7 @@ Here, is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 - 🌱 I’m currently learning: BackEnd and API.
 - 👯 I’m looking to collaborate on: Flutter Applications with GetX and Riverpod for both Android and iOS.
 - 🤔 I’m looking for help with: Competitive Programming.
-- 💬 Ask me about: Programming (c++), flutter, dart, php-mysql, and ajax.
+- 💬 Ask me about: Programming (C++), Flutter, Dart, PHP-Mysql, and Ajax.
 - 📫 How to reach me: [Website](https://muzahidul190.com), [Facebook](https://facebook.com/Muzahidul190), [Twitter](https://twitter.com/muzahidul190), [Youtube](https://youtube.com/Muzahidul190)
 - ⚡ Fun fact: I'm an introvert :)
 <br><p>&nbsp;</p><br>
