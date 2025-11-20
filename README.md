@@ -11,7 +11,7 @@ Here, is Muzahidul Islam, you've reached suddenly to the profile of whom!!!
 ![GitHub followers](https://img.shields.io/github/followers/muzahidul190?label=Follow&style=social)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/muzahidul190/muzahidul190/refs/heads/main/images/code.gif" width="500" height="320" />
 
 - 🔭 I’m currently working as Flutter Developer in [TEXION](https://texion.tech/).
 - 🌱 I’m currently learning: BackEnd and API.
